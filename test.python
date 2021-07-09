@@ -1,3 +1,4 @@
 import os
 
 print("HELLO WORLD")
+print("OK")
