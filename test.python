@@ -1,4 +1,5 @@
 import os
 
-print("HELLO WORLD")
+print("HELLOWORLD")
 print("OK")
+print("BUG")
